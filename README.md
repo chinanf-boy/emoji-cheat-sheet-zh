@@ -1,4 +1,4 @@
-### Emoji 大全
+## Emoji 大全
 
 **Note:** That come form [roachhd/gist](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c) , 但要翻墙
  
@@ -6,6 +6,21 @@
 
 > 然而，一些表情符号代码并不容易记住，所以这里有一些小的备忘单。
 > ✈ 你有记忆它的表情名吗?  ~~Click the emoji code and it will be copied to your clipboard.|单击表情符号代码，它将被复制到剪贴板~~
+
+### 目录
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [人](#%E4%BA%BA)
+- [自然](#%E8%87%AA%E7%84%B6)
+- [事物](#%E4%BA%8B%E7%89%A9)
+- [标志建筑](#%E6%A0%87%E5%BF%97%E5%BB%BA%E7%AD%91)
+- [符号](#%E7%AC%A6%E5%8F%B7)
+- [Campfire还支持一些声音](#campfire%E8%BF%98%E6%94%AF%E6%8C%81%E4%B8%80%E4%BA%9B%E5%A3%B0%E9%9F%B3)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 #### 人
 
